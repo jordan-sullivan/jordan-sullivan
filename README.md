@@ -10,12 +10,9 @@ My 15+ years of experience in these fields working both in New Zealand and in Co
 
 - 🪴 Fun fact: I like plants and making the pots they come in. 🪴 Ask me about "pottery class Wednesdays".
 
-- 🌱 I’m currently learning:
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-</p>
+- 🌱 I’m currently learning:<p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></p>
 
-- - 👯 I’m looking to collaborate on:
+- 👯 I’m looking to collaborate on:
  <p>
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
    <img src="https://img.shields.io/badge/React Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white"/>
