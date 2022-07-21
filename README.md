@@ -8,9 +8,9 @@ My 15+ years of experience in these fields working both in New Zealand and in Co
 
 - 🪴 Fun fact: I like plants and making the pots they come in. 🪴 Ask me about "pottery class Wednesdays".
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jordan-sullivan?cardType=level&theme=gotham)](https://git.io/awesome-stats-card)
-
 - 🌱 I’m currently learning:<p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></p>
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jordan-sullivan?cardType=level&theme=gotham)](https://git.io/awesome-stats-card)
 
 - 👯 I’m looking to collaborate on:
  <p>
