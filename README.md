@@ -9,6 +9,8 @@ My 15+ years of experience in these fields working both in New Zealand and in Co
 
 - 🪴 Fun fact: I like plants and making the pots they come in. 🪴 Ask me about "pottery class Wednesdays".
 
+- 📙 Currently learning: 
+
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
