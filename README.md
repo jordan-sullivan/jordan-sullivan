@@ -5,8 +5,6 @@ Software Developer with an extensive background in the hospitality and nonprofit
 My 15+ years of experience in these fields working both in New Zealand and in Colorado have exposed me to number of new perspectives and deepened my love for mankind, and for traveling. 🌏
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jordan-sullivan)](https://git.io/awesome-stats-github)
-![](https://raw.githubusercontent.com/jordan-sullivan/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/jordan-sullivan/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 - 📫 How to reach me: helloandhi.jp@gmail.com
 
