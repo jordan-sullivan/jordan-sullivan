@@ -4,11 +4,11 @@ Software Developer with an extensive background in the hospitality and nonprofit
 
 My 15+ years of experience in these fields working both in New Zealand and in Colorado have exposed me to number of new perspectives and deepened my love for mankind, and for traveling. 🌏
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jordan-sullivan?cardType=level&theme=gotham)](https://git.io/awesome-stats-card)
-
 - 📫 How to reach me: helloandhi.jp@gmail.com
 
 - 🪴 Fun fact: I like plants and making the pots they come in. 🪴 Ask me about "pottery class Wednesdays".
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jordan-sullivan?cardType=level&theme=gotham)](https://git.io/awesome-stats-card)
 
 - 🌱 I’m currently learning:<p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></p>
 
