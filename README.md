@@ -24,6 +24,7 @@ My 15+ years of experience in these fields working both in New Zealand and in Co
    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
    <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white"/>
    <img src="https://img.shields.io/badge/Chai-A30701?style=for-the-badge&logo=chai&logoColor=white"/>
+   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
  </p>
 
 ![8E2F399A-C628-4881-AB4A-D0D9169F4DAF](https://user-images.githubusercontent.com/95270427/179635312-91e7ba83-8a7b-4ffa-a213-638da2577abb.JPG)
