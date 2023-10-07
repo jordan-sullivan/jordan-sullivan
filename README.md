@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Jordan Sullivan 🌻 (she/her)
 
-Software Developer with an extensive background in the hospitality and nonprofit sector. 
+Software Developer turned Product Manager with an extensive background in the hospitality and nonprofit sector. 
 
 My 15+ years of experience in these fields working both in New Zealand and in Colorado have exposed me to number of new perspectives and deepened my love for mankind, and for traveling. 🌏
 
