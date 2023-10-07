@@ -15,6 +15,7 @@ My 15+ years of experience in these fields working both in New Zealand and in Co
 
 - 👯 I’m looking to collaborate on:
  <p>
+  <img src ="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
    <img src="https://img.shields.io/badge/React Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white"/>
    <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
@@ -25,6 +26,8 @@ My 15+ years of experience in these fields working both in New Zealand and in Co
    <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white"/>
    <img src="https://img.shields.io/badge/Chai-A30701?style=for-the-badge&logo=chai&logoColor=white"/>
    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
  </p>
 
 ![8E2F399A-C628-4881-AB4A-D0D9169F4DAF](https://user-images.githubusercontent.com/95270427/179635312-91e7ba83-8a7b-4ffa-a213-638da2577abb.JPG)
